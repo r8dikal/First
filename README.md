@@ -25,7 +25,6 @@ Database: SQL (Beginner)
 
 📧 Email: a8m4n.sec@gmail.com  
 🐦 X: a8m4nsec  
-💼 LinkedIn: (Building my profile soon!)
-
+💼 LinkedIn: (www.linkedin.com/in/a8m4nsec)
 
 Let's code, hunt bugs, and make the internet a safer place! 🚀
