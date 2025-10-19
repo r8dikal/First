@@ -24,7 +24,7 @@ Database: SQL (Beginner)
 📬 Connect with Me
 
 📧 Email: a8m4n.sec@gmail.com  
-🐦 X: a8m4nsec  
+🐦 X:(https://x.com/a8m4nsec)  
 💼 LinkedIn: (www.linkedin.com/in/a8m4nsec)
 
 Let's code, hunt bugs, and make the internet a safer place! 🚀
